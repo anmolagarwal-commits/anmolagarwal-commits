@@ -32,7 +32,7 @@ I'm a B.Tech Computer Science (IoT) student at **Noida Institute of Engineering 
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🚗 **[AI-Assisted HSRP Smart Parking System](https://github.com/anmolagarwal-commits/REPO-NAME)** | Recognises HSRP number plates with OCR, validates vehicles against a database, monitors slots with ultrasonic sensors, and controls the gate with a servo. Flask backend. *(Ongoing)* | `Raspberry Pi` `OpenCV` `OCR` `Flask` `Python` |
+| 🚗 **[AI-Assisted HSRP Smart Parking System](https://github.com/anmolagarwal-commits/hsrp-smart-campus-parking)** | Recognises HSRP number plates with OCR, validates vehicles against a database, monitors slots with ultrasonic sensors, and controls the gate with a servo. Flask backend. *(Ongoing)* | `Raspberry Pi` `OpenCV` `OCR` `Flask` `Python` |
 | 🎙️ **[Ultron – Lightweight AI Voice Activation](https://github.com/anmolagarwal-commits/REPO-NAME)** | Edge-based Keyword Spotting for local wake-word detection ("Marvin"), designed for low RAM and CPU usage. *(In development)* | `Edge AI` `Keyword Spotting` `Python` |
 | 🚁 **[Drone Flight Controller](https://github.com/anmolagarwal-commits/REPO-NAME)** | Custom flight controller built on Arduino Uno with altitude-hold functionality. | `Arduino` `Sensors` `Embedded C` |
 | 📱 **[Android Apps: Notes & Weather](https://github.com/anmolagarwal-commits/REPO-NAME)** | Notes app with create/edit/delete and SQLite storage; WeatherApp with real-time data and network-failure handling. | `Java` `XML` `SQLite` `Android Studio` |
